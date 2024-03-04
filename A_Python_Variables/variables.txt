@@ -1,0 +1,15 @@
+x = 10  # x is variable and 10 is value
+print(x)
+
+alph_numeirc
+
+# multi word variables type
+
+i. camel case
+        myVariableName = "John"
+
+ii> pascal case 
+        MyVariableName = "John"
+
+iii. snake case 
+        my_variabel_name = "john"
