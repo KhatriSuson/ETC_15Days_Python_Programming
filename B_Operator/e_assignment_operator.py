@@ -10,7 +10,7 @@ print(x)  # 11
 
 # Subtract and assign
 y = 56
-y -= 12
+y -= 12 # y = y -1 
 print(y)
 
 # Multiply and assign
