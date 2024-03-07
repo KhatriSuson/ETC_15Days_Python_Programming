@@ -1,0 +1,8 @@
+Built-in functions are the pre-defined function in Python
+ that allows using the basic properties of string and numbers
+  in your rules. There are 60+ built-in functions in Python. 
+
+  lmabda
+  map
+  filter 
+  random

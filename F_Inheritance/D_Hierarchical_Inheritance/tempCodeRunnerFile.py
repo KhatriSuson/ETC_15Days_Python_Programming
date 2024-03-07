@@ -21,10 +21,3 @@ dog.bark()  # Output: Dog barks
 cat = Cat()
 cat.speak()  # Output: Animal speaks
 cat.meow()
-
-
-# OUTPUT
-# Animal speaks
-# Dog barks
-# Animal speaks
-# Cat meows
