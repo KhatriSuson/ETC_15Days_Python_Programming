@@ -4,7 +4,7 @@ class One:
         self.position = position
         print(f"My name is {self.name} and my position is {self.position}")
 
-class Two(One):
+class Two(One):  # chiild(super)
     def two(self, company_name):
         self.c_name = company_name
 

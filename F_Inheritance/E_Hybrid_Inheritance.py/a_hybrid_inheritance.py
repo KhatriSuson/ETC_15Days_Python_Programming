@@ -1,9 +1,9 @@
-class A:
+class A:  # super class
     def methodA(self):
         print("Method A")
 
 
-class B(A):
+class B(A):  
     def methodB(self):
         print("Method B")
 
@@ -23,3 +23,10 @@ d.methodA()  # Output: Method A
 d.methodB()  # Output: Method B
 d.methodC()  # Output: Method C
 d.methodD()  # Output: Method D
+
+
+# OUTPUT
+# Method A
+# Method B
+# Method C
+# Method D

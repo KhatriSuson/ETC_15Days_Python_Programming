@@ -18,7 +18,11 @@ class Square(Rectangle):
 
 
 square = Square(5)
-rectangle = Rectangle(4, 9)
+rectangle = Rectangle(4, 5)
 
 print("Area of Square is", square.area())
 print("Area of reactange is", rectangle.area())
+
+
+# Area of Square is 25
+# Area of reactange is 20
